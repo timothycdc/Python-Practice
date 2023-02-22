@@ -6,7 +6,7 @@ It has been created to help with Hackerrank and Leetcode practice.
 One key feature is that inputs are naturally converted into Python variables as if they were parsed by an interpreter, instead of being passed in via strings.
 
 This tool automatically converts types, which is a big improvement over the `input()` function that passes everything in string form.
-You save time on converting stuff and more time on honing your algorithmic prowess!
+You save time on converting stuff and spend more time on honing your algorithmic prowess!
 
 Simply fill up the `input` and `output_expected` directories with input testcases and expected outputs of your own choosing. I have populated them with example files and their outputs as proof that this suite works.
 
