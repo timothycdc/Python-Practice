@@ -8,10 +8,14 @@ One key feature is that inputs strings are naturally converted into Python varia
 This tool automatically assigns types, which is a big improvement over the `input()` function that passes everything in string form.
 You save time on converting stuff and spend more time on honing your algorithmic prowess!
 
+## How to Use:
+
 Simply fill up the `input` and `output_expected` directories with input testcases and expected outputs of your own choosing. I have populated them with example files and their outputs as proof that this suite works.
 
 Use Python syntax to denote any kind of variable, as if you were typing into a program. Don't worry about keeping spaces consistent in between elements in lists, or your choice of quotes, etc as the parser will take care of cleaning inputs.
 1D and 2D lists are supported as input variables, but don't try this with any greater dimensions.
+
+Write your program to be tested in the `main` function in `main.py`. Then run test.py.
 
 ## Input Files
 
