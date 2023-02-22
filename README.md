@@ -41,7 +41,7 @@ Note that all this data is automatically typed! You can see for yourself the exa
 
 ## Expected Output Files
 
-This suite checks the return output of your program against your expected output. The `output_expected` files are parsed similarly to the input files. _The only difference is, expected outputs and returns only support a single line as input._
+This suite checks the return output of your program against your expected output. The `output_expected` files are parsed similarly to the input files. _The only difference is, expected outputs only support a single line, just like most Python questions return a single line._
 Again, your expected output is parsed like Python syntax, so don't worry about choice of quotes, spaces, etc!
 Also, everything is logged to the `log.txt` file in the home directory.
 
