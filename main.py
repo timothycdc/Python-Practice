@@ -1,6 +1,4 @@
-import math
 import os
-import re
 import sys
 
 # open every text file from the input folder
