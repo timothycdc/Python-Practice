@@ -8,8 +8,6 @@ One key feature is that inputs are naturally converted into Python variables as 
 This tool automatically converts types, which is a big improvement over the `input()` function that passes everything in string form.
 You save time on converting stuff and more time on honing your algorithmic prowess!
 
-## How to Use:
-
 Simply fill up the `input` and `output_expected` directories with input testcases and expected outputs of your own choosing. I have populated them with example files and their outputs as proof that this suite works.
 
 Use Python syntax to denote any kind of variable, as if you were typing into a program. Don't worry about keeping spaces consistent in between elements in lists, or your choice of quotes, etc as the parser will take care of cleaning inputs.
