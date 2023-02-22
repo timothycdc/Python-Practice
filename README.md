@@ -89,7 +89,7 @@ Anything printed from your program in `main` will be output to the text files in
 ## Actual Output 
 
 Anything returned from your program in `main` will be output to the text files in `/output_actual`.
-This is then compared against your expected output
+This is then compared against its respective expected output file.
 
 ## Other Technical Details
 
