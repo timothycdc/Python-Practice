@@ -15,7 +15,7 @@ Simply fill up the `input` and `output_expected` directories with input testcase
 Use Python syntax to denote any kind of variable, as if you were typing into a program. Don't worry about keeping spaces consistent in between elements in lists, or your choice of quotes, etc as the parser will take care of cleaning inputs.
 1D and 2D lists are supported as input variables, but don't try this with any greater dimensions.
 
-Write your program to be tested in the `main` function in `main.py`. Then run test.py.
+Write your program to be tested in the `main` function in `main.py`. Then run `test.py`.
 
 ## Input Files
 
