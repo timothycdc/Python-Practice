@@ -77,7 +77,7 @@ An `output_expected` text file:
 ```
 "make is crap"
 ```
-Will be parsed as such and converted into a Python string:
+Will be parsed as such and converted into a Python string: [?](https://www.youtube.com/watch?v=YjXfjdCmfD4)
 ```
 'make is crap'
 ```
