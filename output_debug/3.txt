@@ -1,0 +1,3 @@
+123 <class 'int'>
+234 <class 'int'>
+['man'] <class 'list'>

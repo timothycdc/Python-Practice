@@ -1,0 +1,4 @@
+[[1, 2, 3, 4], ['a'], 31] <class 'list'>
+['asdasd'] <class 'list'>
+[12321] <class 'list'>
+False <class 'bool'>

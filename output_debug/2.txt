@@ -1,0 +1,3 @@
+bruh <class 'str'>
+2352341 <class 'int'>
+3432.123 <class 'float'>
