@@ -99,7 +99,8 @@ This is then compared against its respective expected output file.
 
 - I have included some draft files from the planning progress in the `draft` folder, they aren't used in the program.
 - Most of the suite is in the `main.py`, where your program resides, and the `test.py` file which automates the testing
-- I was inspired by the our Compilers module and wanted to apply our newly learnt knowledge in language processing via parsers and lexers.
+- I was inspired by our EIE Compilers module and wanted to apply our newly learnt knowledge in language processing via parsers and lexers.
 - I am using the PLY library, a Python implementation of lex and yacc. For more info, check out the repo [here](https://github.com/dabeaz/ply).
+- (Perhaps I'll make a C++ version sometime.)
 
 Happy hacking!
