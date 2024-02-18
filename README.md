@@ -1,4 +1,4 @@
-# PyTest-Practice
+# Python-Practice
 
 This environment helps you check testcases against a Python program of choice.
 It has been created to help with Hackerrank and Leetcode practice.
